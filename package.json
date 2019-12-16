@@ -1,0 +1,18 @@
+{
+  "name": "node-hue-api-v2-shim",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-hue-api": "4.0.0-alpha-3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peter-murray/node-hue-api-v2-shim"
+  },
+  "bugs": {
+    "url": "https://github.com/peter-murray/node-hue-api-v2-shim/issues"
+  }
+}
