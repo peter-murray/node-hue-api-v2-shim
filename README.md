@@ -13,7 +13,7 @@ This shim does have performance issues and it will mess with your native JavaScr
 the old `Q` promise. But using the over the `2.x` versions of `node-hue-api` will still give a significant performance
 benefit due to the speed increases introduced in the `3.x` refactoring of `node-hue-api`.
 
-It was originally implemented to be a 90% backwards compatible shim that covers the major usecases of the older versions 
+It was originally implemented to be a 90% backwards compatible shim that covers the major use cases of the older versions 
 of `node-hue-api`. 
 
 
@@ -29,12 +29,12 @@ when taking the latest versions of the `node-hue-api`.
 
 Node.js using npm:
 ```
-$ npm install node-hue-api
+$ npm install node-hue-api-v2-shim
 ```
 
 Node.js using yarn:
 ```
-$ yarn install node-hue-api
+$ yarn install node-hue-api-v2-shim
 ```
 
 
