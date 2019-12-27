@@ -1,8 +1,8 @@
 {
   "name": "node-hue-api-v2-shim",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "dependencies": {
-    "node-hue-api": "4.0.0-alpha-3"
+    "node-hue-api": "4.0.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
